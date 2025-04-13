@@ -1,5 +1,5 @@
 // Correct answers for each question
-const correctAnswers = ['B', 'B', 'B', 'B', 'D']; // Q1 to Q5
+const correctAnswers = ['b', 'b', 'b', 'b', 'd']; // Q1 to Q5
 
 // Get quiz form and result display
 const quizForm = document.getElementById('quiz-form');
